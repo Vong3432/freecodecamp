@@ -2,6 +2,7 @@
   "name": "freecodecamp-tutorial",
   "version": "0.1.0",
   "private": false,
+  "main": "index.js",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
