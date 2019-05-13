@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/freecodecamp/static/css/main.f17fe380.chunk.css",
+    "main.js": "/freecodecamp/static/js/main.99698858.chunk.js",
+    "main.js.map": "/freecodecamp/static/js/main.99698858.chunk.js.map",
+    "runtime~main.js": "/freecodecamp/static/js/runtime~main.a261dcf3.js",
+    "runtime~main.js.map": "/freecodecamp/static/js/runtime~main.a261dcf3.js.map",
+    "static/js/2.ebecf277.chunk.js": "/freecodecamp/static/js/2.ebecf277.chunk.js",
+    "static/js/2.ebecf277.chunk.js.map": "/freecodecamp/static/js/2.ebecf277.chunk.js.map",
+    "index.html": "/freecodecamp/index.html",
+    "precache-manifest.7153881cb69c6b9146cf83127189e98a.js": "/freecodecamp/precache-manifest.7153881cb69c6b9146cf83127189e98a.js",
+    "service-worker.js": "/freecodecamp/service-worker.js",
+    "static/css/main.f17fe380.chunk.css.map": "/freecodecamp/static/css/main.f17fe380.chunk.css.map"
+  }
+}
